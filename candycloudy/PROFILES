@@ -1,0 +1,16 @@
+{
+name::folder
+pair:9
+}
+{
+name::folder_subfolder
+pair:9
+}
+{
+name::folder_single_file
+pair:9
+}
+{
+name::empty_folder
+pair:9
+}
